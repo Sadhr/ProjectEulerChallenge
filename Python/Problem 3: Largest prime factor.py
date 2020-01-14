@@ -15,4 +15,4 @@ def largestPrimeFactor(number):
     return largestPrime
 
 
-print(largestPrimeFactor(600851475143))
+print(largestPrimeFactor(6008))
